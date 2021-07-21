@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1afeedf7.chunk.css",
+    "main.js": "/static/js/main.e6ec47b1.chunk.js",
+    "main.js.map": "/static/js/main.e6ec47b1.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.4c51956b.chunk.css": "/static/css/2.4c51956b.chunk.css",
+    "static/js/2.498f6dce.chunk.js": "/static/js/2.498f6dce.chunk.js",
+    "static/js/2.498f6dce.chunk.js.map": "/static/js/2.498f6dce.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.7d157c81beb1a11b6377566752a5546a.js": "/precache-manifest.7d157c81beb1a11b6377566752a5546a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.4c51956b.chunk.css.map": "/static/css/2.4c51956b.chunk.css.map",
+    "static/css/main.1afeedf7.chunk.css.map": "/static/css/main.1afeedf7.chunk.css.map",
+    "static/media/cog.png": "/static/media/cog.e2823444.png",
+    "static/media/dsk-boaf.jpg": "/static/media/dsk-boaf.b69a327f.jpg",
+    "static/media/dsk-luigis.jpg": "/static/media/dsk-luigis.fb8fb0f7.jpg",
+    "static/media/dsk-reliant.png": "/static/media/dsk-reliant.39782676.png",
+    "static/media/dsk-triarc.png": "/static/media/dsk-triarc.e7fceee8.png",
+    "static/media/github.png": "/static/media/github.09f5c6ae.png",
+    "static/media/icon-adobe.png": "/static/media/icon-adobe.de593e06.png",
+    "static/media/icon-apache.png": "/static/media/icon-apache.282b0590.png",
+    "static/media/icon-jquery.png": "/static/media/icon-jquery.0221c497.png",
+    "static/media/icon-linux.png": "/static/media/icon-linux.55d4ab9b.png",
+    "static/media/icon-mysql.png": "/static/media/icon-mysql.f3f076c5.png",
+    "static/media/icon-native.png": "/static/media/icon-native.26b86cb2.png",
+    "static/media/icon-php.png": "/static/media/icon-php.5b4445dd.png",
+    "static/media/icon-react.png": "/static/media/icon-react.9a7eb300.png",
+    "static/media/team.png": "/static/media/team.49191dcc.png"
+  }
+}
